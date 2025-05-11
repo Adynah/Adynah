@@ -97,10 +97,13 @@ Tech: Express, JWT, PostgreSQL
 
 ## 🧵 Let's Connect!
 
-📩 Email: t.barimalaa@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/tamunomiete-barimalaa?utm_source=share  
-🌐 Portfolio: https://sites.google.com/view/tamunomieteadinabarimlaa/portfolio
-X (formerly Twitter): [@adina70286](https://x.com/adina70286?s=11)
+  <img src="https://img.icons8.com/ios-filled/20/000000/gmail.png" alt="Email icon" />  <a href="mailto:t.barimalaa@gmail.com">t.barimalaa@gmail.com</a>
+  
+  <img src="https://img.icons8.com/ios-filled/20/000000/linkedin.png" alt="LinkedIn icon" />  <a href="https://www.linkedin.com/in/tamunomiete-barimalaa?utm_source=share" target="_blank">LinkedIn</a>
+  
+  <img src="https://img.icons8.com/ios-filled/20/000000/twitterx--v1.png" alt="X icon" />  <a href="https://x.com/adina70286?s=11" target="_blank">X (formerly Twitter)</a>
+  
+  <img src="https://img.icons8.com/ios-filled/20/000000/domain.png" alt="Portfolio icon" />  <a href="https://sites.google.com/view/tamunomieteadinabarimlaa/portfolio" target="_blank">Portfolio</a>
 
 
 ---
